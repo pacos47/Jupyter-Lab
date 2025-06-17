@@ -1,0 +1,4 @@
+name = "MathTools"
+uuid = "895e4b26-bd96-417e-9771-d60aeec41cec"
+authors = ["pacos <pacos47@gmail.com>"]
+version = "0.1.0"
